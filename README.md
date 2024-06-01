@@ -15,7 +15,7 @@ Welcome to the Free WordPress Dummy Post Creator Plugin repository! This plugin 
 
 ### Installation
 
-1. **Download**: Download the latest release from the [Releases](https://github.com/your-username/your-repo/releases) section of this repository.
+1. **Download**: Download the latest release from the [Releases](https://github.com/mayankbpandya/wp-dummy-posts-creator/releases) section of this repository.
 2. **Upload**: Upload the plugin folder to the `/wp-content/plugins/` directory of your WordPress installation.
 3. **Activate**: Activate the plugin through the 'Plugins' menu in WordPress.
 
