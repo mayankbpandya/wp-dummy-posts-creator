@@ -43,7 +43,7 @@ This plugin is licensed under the [MIT License](LICENSE).
 
 ### Support
 
-For support or inquiries, please contact [mayankbpandya@gmail.com](mailto:mayankbpandya@gmail.com).
+For support or inquiries, please contact [mayankbpandya@hotmail.com](mailto:mayankbpandya@hotmail.com).
 
 ### Credits
 

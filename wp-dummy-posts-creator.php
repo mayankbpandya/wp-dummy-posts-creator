@@ -63,7 +63,7 @@ class Dummy_Post_Creator {
     public function number_of_posts_callback() {
         $options = get_option('dummy_post_creator_options');
         $number_of_posts = isset($options['number_of_posts']) ? $options['number_of_posts'] : '';
-        echo '<input type="number" name="dummy_post_creator_options[number_of_posts]" value="' . esc_attr($number_of_posts) . '" />';
+        echo '<input type="number" min="1" max="99" name="dummy_post_creator_options[number_of_posts]" value="' . esc_attr($number_of_posts) . '" />';
     }
 
     public function content_limit_callback() {
